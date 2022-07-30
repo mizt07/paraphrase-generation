@@ -1,5 +1,4 @@
 import csv
-from distutils.command.build import build
 import pickle
 from nltk.tokenize import word_tokenize
 from copy import deepcopy
@@ -7,8 +6,6 @@ import json
 import sys
 import numpy as np
 import h5py
-from collections import Counter
-import matplotlib.pyplot as plt
 
 def paws_split(filename, output_name): # reads from .tsv and transfers data to .json
 	final_output = []
