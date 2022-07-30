@@ -18,14 +18,14 @@ After searching the web for a bit, I have seen that this model is  commonly used
 ## Getting Started
 
 ```
-*Install requirements*
+Install requirements
 pip3 install torch==1.12.0
 pip3 install torchtext==0.6.0
 pip3 install tqdm==4.64.0
 pip3 install h5py==3.7.0
 pip3 install nltk==3.7
 
-*How to use*
+How to use
 1. python preprocess.py
 2. python train.py
 3. python paraphrase.py
