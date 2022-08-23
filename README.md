@@ -31,16 +31,8 @@ How to use
 3. python paraphrase.py
 ```
 
-## To Do List
-- Add validation
-- Add argument parser
-- Add a config file where filenames will be stored 
-- Train model with other paraphrasing datasets 
-
 ## Acknowledgement
 - https://github.com/bentrevett/pytorch-seq2seq
 - https://arxiv.org/abs/1706.03762
 - https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel
 
-## Contact
-- https://github.com/miztqq
